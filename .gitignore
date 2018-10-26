@@ -1,0 +1,14 @@
+*.ihx
+*.adb
+*.asm
+*.cdb
+*.rst
+*.sym
+*.lk
+*.lst
+*.map
+*.rel
+
+stm8-flash-loader/Objects/*.o
+stm8-flash-loader/*.exe
+stm8-flash-loader/*.layout
